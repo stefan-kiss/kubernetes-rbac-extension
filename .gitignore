@@ -1,0 +1,9 @@
+.idea/**
+venv/**
+requirements*
+scratch/**
+.envrc
+/*.iml
+*.pyc
+
+
